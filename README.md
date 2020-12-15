@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Hello and welcome to my site, I am new to coding and to the tech world and have recently begun a coding bootcamp at UNCC. On this website you will find my projects. Thank you for visiting my site and feel free to leave any constructive feedback or ideas on ways that I can improve my projects! 
 ## Header 2
 ### Header 3
 
